@@ -12,7 +12,8 @@
 * [Questions](#questions)
 
 # Application Screenshots
-((Screenshots HERE)
+<img width="1193" alt="Note-Taker Homescreen" src="https://user-images.githubusercontent.com/98703735/167257992-92485f13-d089-4a5a-9244-d0deb5e15690.png">
+<img width="1193" alt="Note Taker example 2" src="https://user-images.githubusercontent.com/98703735/167258011-feb78e67-a347-44f5-a5a5-2a79cca68374.png">
 
 # Description
 This application is a Note Taker application. Allows the user to make notes for future reference. The user has the ability to save the notes for later and also delete the notes once they have completed them. A screen refresh will update the page after any save or deletion of notes. 
