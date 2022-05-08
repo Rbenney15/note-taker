@@ -33,5 +33,5 @@ This application is a Note Taker application. Allows the user to make notes for 
 * Pressing Control C will end the server
 
 # Questions
-* GitHub url where the project is located: https://github.com/Rbenney15/note-taker.git
+* Deployed Application: https://note-taker-rbgwu.herokuapp.com/
 * If you have any questions, please feel free to reach me at: Rob.benney@gmail.com
