@@ -12,25 +12,22 @@
 * [Questions](#questions)
 
 # Application Screenshots
-<img width="1193" alt="Note-Taker Homescreen" src="https://user-images.githubusercontent.com/98703735/167257992-92485f13-d089-4a5a-9244-d0deb5e15690.png">
-<img width="1193" alt="Note Taker example 2" src="https://user-images.githubusercontent.com/98703735/167258011-feb78e67-a347-44f5-a5a5-2a79cca68374.png">
+<img width="1179" alt="Note Taker Homescreen" src="https://user-images.githubusercontent.com/98703735/167319621-1c153292-12ac-42b1-ba84-8a918066c6e2.png">
+<img width="1168" alt="Note Taker notes screen" src="https://user-images.githubusercontent.com/98703735/167319627-06361c5e-2e64-49ea-8e8b-a9637b2fe46e.png">
 
 # Description
-This application is a Note Taker application. Allows the user to make notes for future reference. The user has the ability to save the notes for later and also delete the notes once they have completed them. A screen refresh will update the page after any save or deletion of notes. 
+This application is a Note Taker application. Allows the user to make notes for future reference. The user has the ability to save the notes for later and also delete the notes once they have completed them.
 
 # Installation
 * Clone Repo onto your machine
-* Run NPM i from command line
+* Run NPM i express from command line
 * Run NPM start in commnad line to inatialize server
 
 # Usage
-* Go to localhost:3000 to view Note-Taker app
+* Go to for https://note-taker-rbgwu.herokuapp.com/ deployed application
 * Click 'Get Started' button on the homescreen to enter application
 * Enter a note title and some notes
-* Click Save icon in top right corner of screen
-* Refresh page and your new note will appear in the left side of the screen
-* Save icon only appears after you enter a note title and some text in the notes field
-* Pressing Control C will end the server
+* Click Save icon in top right corner of screen (saved note will appear on left side bar of screen for later viewing)
 
 # Questions
 * Deployed Application: https://note-taker-rbgwu.herokuapp.com/
